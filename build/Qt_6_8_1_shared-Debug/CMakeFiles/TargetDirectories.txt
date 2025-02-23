@@ -1,0 +1,9 @@
+C:/Users/auser/Documents/WEbPicturerDowloader/build/Qt_6_8_1_shared-Debug/CMakeFiles/WEbPicturerDowloader.dir
+C:/Users/auser/Documents/WEbPicturerDowloader/build/Qt_6_8_1_shared-Debug/CMakeFiles/edit_cache.dir
+C:/Users/auser/Documents/WEbPicturerDowloader/build/Qt_6_8_1_shared-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/auser/Documents/WEbPicturerDowloader/build/Qt_6_8_1_shared-Debug/CMakeFiles/list_install_components.dir
+C:/Users/auser/Documents/WEbPicturerDowloader/build/Qt_6_8_1_shared-Debug/CMakeFiles/install.dir
+C:/Users/auser/Documents/WEbPicturerDowloader/build/Qt_6_8_1_shared-Debug/CMakeFiles/install/local.dir
+C:/Users/auser/Documents/WEbPicturerDowloader/build/Qt_6_8_1_shared-Debug/CMakeFiles/install/strip.dir
+C:/Users/auser/Documents/WEbPicturerDowloader/build/Qt_6_8_1_shared-Debug/CMakeFiles/WEbPicturerDowloader_autogen_timestamp_deps.dir
+C:/Users/auser/Documents/WEbPicturerDowloader/build/Qt_6_8_1_shared-Debug/CMakeFiles/WEbPicturerDowloader_autogen.dir

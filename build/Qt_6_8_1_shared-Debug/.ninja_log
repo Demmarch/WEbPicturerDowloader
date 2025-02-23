@@ -1,0 +1,9 @@
+# ninja log v6
+11	849	7620398991172743	WEbPicturerDowloader_autogen/timestamp	f653d6b877193f6b
+11	849	7620398991172743	WEbPicturerDowloader_autogen/mocs_compilation.cpp	f653d6b877193f6b
+11	849	7620398991172743	C:/Users/auser/Documents/WEbPicturerDowloader/build/Qt_6_8_1_shared-Debug/WEbPicturerDowloader_autogen/timestamp	f653d6b877193f6b
+11	849	7620398991172743	C:/Users/auser/Documents/WEbPicturerDowloader/build/Qt_6_8_1_shared-Debug/WEbPicturerDowloader_autogen/mocs_compilation.cpp	f653d6b877193f6b
+863	5430	7620398992723094	CMakeFiles/WEbPicturerDowloader.dir/main.cpp.obj	f9217fad78e7e85f
+859	5736	7620398992683082	CMakeFiles/WEbPicturerDowloader.dir/WEbPicturerDowloader_autogen/mocs_compilation.cpp.obj	211422afc6e6efa1
+868	6660	7620398992773103	CMakeFiles/WEbPicturerDowloader.dir/mainwindow.cpp.obj	5497b146516aa28b
+6660	6875	7620399050694583	WEbPicturerDowloader.exe	7aed2561b6a5c21e
